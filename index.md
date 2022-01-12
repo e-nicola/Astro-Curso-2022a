@@ -10,9 +10,10 @@ El curso discutirá los siguientes temas:
 2. Instrumentos Ópticos en Astronomía
 3. Esfera Celeste: Movimientos, Coordenadas, Constelaciones, etc.
 4. Astronomía del Sistema Solar
-5. Astronomía de los Objetos del Cielo Profundo
-6. Astronomía de la Vía Láctea y Galáctica
-7. Cosmología
+5. Astronomía Estelar
+6. Astronomía de los Objetos del Cielo Profundo
+7. Astronomía de la Vía Láctea y Galáctica
+8. Cosmología
 ```
 ## Duración del curso
 * Curso de 22h; divididas en 11 clases de 2h cada una
