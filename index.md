@@ -20,6 +20,16 @@ El curso discutirá los siguientes temas:
 * Las clases serán todos los jueves de 19 a 21h
 * El curso empieza el 13 de ene. y termina el 31 de mar. 2022 (el jueves 20 de enero no hay clase porque es festivo)
 
+## Posibles fechas de las salidas al campo
+* Observación del Cielo Profundo:
+    1. 24.01 lun	a	06.02 dom
+    2. 22.02 mar	a	08.03 mar
+    3. 22.03 mar	a	05.04 mar
+* Observación Lunar:
+    1. 09.01 dom 	a	18.01 mar
+    2. 08.02 mar 	a	16.02 mie
+    3. 10.03 mar 	a	18.03 vie
+
 ## [Programa del curso](programa.md)[^1]
 _A continuación encontrarás una versión resumida del programa del curso, en este enlace hay un [programa detallado](programa.md).
 ¡El programa puede cambiar sin previo aviso!_
