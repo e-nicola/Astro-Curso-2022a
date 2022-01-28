@@ -40,6 +40,7 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 
 ### 27-01-2022: _Observación Astronómica_
 * La Esfera Celeste
+* Estrellas y Constelaciones
 * Mapas y Objetos del Cielo
 
 ### 03-02-2022: _Sistema Solar 1_
@@ -73,4 +74,4 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 
 ## [Bibliografía del curso](bibliografía.md)
 
-[^1]: página actualizada por última vez el: 2022-01-12
+[^1]: página actualizada por última vez el: 2022-01-28
