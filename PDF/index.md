@@ -1,8 +1,8 @@
-[<img src="IMG/casal_santa_catalina.png" width=200 align=center>](https://casalsdebarri.cat/casals/cb-santa-catalina/)
-[<img src="IMG/logo-astromallorca4.png" width=250 align=center>](https://astromallorca.wordpress.com/)
+[<img src="https://e-nicola.github.io/Astro-Curso-2022a/IMG/casal_santa_catalina.png" width=200 align=center>](https://casalsdebarri.cat/casals/cb-santa-catalina/)
+[<img src="https://e-nicola.github.io/Astro-Curso-2022a/IMG/logo-astromallorca4.png" width=250 align=center>](https://astromallorca.wordpress.com/)
 ## Del 13 de enero al 31 de marzo de 2022 ([Casal de Santa Catalina](https://casalsdebarri.cat/casals/cb-santa-catalina/))
-## Docente: [Ernesto Nicola](bio.md) ([AstroMallorca](https://astromallorca.wordpress.com/))
-## Descripción del curso
+## Docente: [Ernesto Nicola](https://e-nicola.github.io/Astro-Curso-2022a/bio.html) ([AstroMallorca](https://astromallorca.wordpress.com/))
+## Descripción del curso (con pdfs)
 Curso de astronomía a nivel introductorio que hará un recorrido por las áreas más relevantes de esta ciencia. ¡En el curso no solo aprenderás a reconocer las constelaciones y los objetos más destacables del cielo, sino que también descubrirás cómo está formado y cómo funciona nuestro Universo! 
 ```
 El curso discutirá los siguientes temas:
@@ -30,8 +30,8 @@ El curso discutirá los siguientes temas:
     2. 08.02 mar 	a	16.02 mie
     3. 10.03 mar 	a	18.03 vie
 
-## [Programa del curso](programa.md)[^1]
-_A continuación encontrarás una versión resumida del programa del curso, en este enlace hay un [programa detallado](programa.md).
+## [Programa del curso](https://e-nicola.github.io/Astro-Curso-2022a/programa.html)[^1]
+_A continuación encontrarás una versión resumida del programa del curso, en este enlace hay un [programa detallado](https://e-nicola.github.io/Astro-Curso-2022a/programa.html).
 ¡El programa puede cambiar sin previo aviso!_
 
 ### 13-01-2022: _Presentación e Introducción a los Instrumentos Ópticos_
@@ -72,6 +72,6 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 ### 31-03-2022: _Cosmología 2_
 * La Evolución del Universo
 
-## [Bibliografía del curso](bibliografía.md)
+## [Bibliografía del curso](https://e-nicola.github.io/Astro-Curso-2022a/bibliografía.html)
 
 [^1]: página actualizada por última vez el: 2022-01-28
