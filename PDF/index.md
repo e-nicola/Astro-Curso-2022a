@@ -35,19 +35,17 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 ¡El programa puede cambiar sin previo aviso!_
 
 ### 13-01-2022: _Presentación e Introducción a los Instrumentos Ópticos_
-* Presentación del Curso
-* Introducción a los Instrumentos Ópticos
+* Presentación del Curso ([pdf](2022-01-13_Info_Curso_v1.pdf))
+* Introducción a los Instrumentos Ópticos ([pdf](2022-01-13_Instrumentos_Oticos_v1.pdf))
 
 ### 27-01-2022: _Observación Astronómica_
-* La Esfera Celeste
-* Estrellas y Constelaciones
-* Mapas y Objetos del Cielo
+* Observación Astronómica ([pdf](2022-01-27_Observación_Astronómica_v1.pdf))
 
 ### 03-02-2022: _Sistema Solar 1_
-* Introducción al Sistema Solar
-* Planetas y sus Lunas
+* Introducción al Sistema Solar ([pdf](2022-02-03_Sistema_Solar_Intro_v1.pdf))
 
 ### 10-02-2022: _Sistema Solar 2_
+* Planetas y sus Lunas
 * Asteroides, Cometas y Meteoros
 
 ### 17-02-2022: _Sistema Solar 3_
@@ -74,4 +72,4 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 
 ## [Bibliografía del curso](https://e-nicola.github.io/Astro-Curso-2022a/bibliografía.html)
 
-[^1]: página actualizada por última vez el: 2022-01-28
+[^1]: página actualizada por última vez el: 2022-02-05
