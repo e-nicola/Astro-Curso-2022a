@@ -45,33 +45,33 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 
 ### 03-02-2022: _Sistema Solar 1_
 * Introducción al Sistema Solar
-* Planetas y sus Lunas
 
 ### 10-02-2022: _Sistema Solar 2_
-* Asteroides, Cometas y Meteoros
+* Los Planetas y sus Lunas
 
 ### 17-02-2022: _Sistema Solar 3_
-* El Planeta Tierra
+* Asteroides, Cometas y Meteoros
 
 ### 24-02-2022: _Sistema Solar 4_
+* El Planeta Tierra
+
+### 03-03-2022: _Sistema Solar 5_
 * La Luna, nuestro Satélite
 
-### 03-03-2022: _Astronomía Estelar 1_
+### 10-03-2022: _Astronomía Estelar 1_
 * Estrellas 
 * Cúmulos Estelares y Nebulosas
 
-### 10-03-2022: _Astronomía Estelar 2_
+### 17-03-2022: _Astronomía Estelar 2_
 * El Sol, nuestra Estrella
 
-### 17-03-2022: _Astronomía Galáctica_
+### 24-03-2022: _Astronomía Galáctica_
 * Vía Láctea y Galaxias
 
-### 24-03-2022: _Cosmología 1_
-* Introducción Histórica a la Cosmología
-
-### 31-03-2022: _Cosmología 2_
+### 31-03-2022: _Cosmología 1_
 * La Evolución del Universo
 
-## [Bibliografía del curso](bibliografía.md)
+## [Bibliografía del curso](https://e-nicola.github.io/Astro-Curso-2022a/bibliografía.html)
 
-[^1]: página actualizada por última vez el: 2022-01-28
+[^1]: página actualizada por última vez el: 2022-02-16
+
