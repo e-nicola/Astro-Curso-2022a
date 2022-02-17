@@ -48,7 +48,7 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 * Los Planetas y sus Lunas ([pdf](2022-02-10_Sistema_Solar_Planetas_v1.pdf))
 
 ### 17-02-2022: _Sistema Solar 3_
-* Asteroides, Cometas y Meteoros
+* Asteroides, Cometas y Meteoros ([pdf](2022-02-17_Asteroides_y_Cometas_v1.pdf))
 
 ### 24-02-2022: _Sistema Solar 4_
 * El Planeta Tierra
