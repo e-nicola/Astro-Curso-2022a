@@ -79,8 +79,25 @@
   * Anatomía de los Cometas
   * Lluvias de Meteoros y Cometas
 
+## _Sistema Solar 4: El Planeta Tierra
+* El Planeta Tierra
+  * Tamaño y Forma de la Tierra
+  * Historia de la Tierra
+  * La Tierra y sus 4 Esferas
+* La Tierra Sólida: la Geósfera
+  * Estructura Interna
+  * El Núcleo y el Campo Magnético
+  * El Manto y la Corteza: Tectónica de Placas
+* La Tierra Gaseosa: la Atmósfera
+  * Circulaciones Atmosféricas
+  * Efecto Invernadero
+* La Tierra Líquida: la Hidrósfera
+  * Corrientes Océanicas
+*La Tierra Viva: la Biósfera
+  * El Árbol de la Vida
+  * Distribución de los Organismos Vivientes
 
 
 
 
-[^1]: página actualizada por última vez el: 2022-01-17
+[^1]: página actualizada por última vez el: 2022-01-24
