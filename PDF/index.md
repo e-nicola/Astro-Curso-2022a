@@ -71,4 +71,4 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 
 ## [Bibliografía del curso](https://e-nicola.github.io/Astro-Curso-2022a/bibliografía.html)
 
-[^1]: página actualizada por última vez el: 2022-02-16
+[^1]: página actualizada por última vez el: 2022-02-24
