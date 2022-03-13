@@ -117,7 +117,7 @@
   * Introducción a la Geografía de la Luna
   * Origen de los Nombres de las Características Lunares
 
-## _Astronomía Estelar 1:Estrellas_
+## _Astronomía Estelar 1: Estrellas_
 * Mecanismos Estelares
   * Generación de Energía
   * Balance Energético
