@@ -54,11 +54,10 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 * El Planeta Tierra ([pdf](2022-02-24_Planeta_Tierra_v1.pdf))
 
 ### 03-03-2022: _Sistema Solar 5_
-* La Luna, nuestro Satélite
+* La Luna, nuestro Satélite ([pdf](2022-03-03_Luna_v0.pdf))
 
 ### 10-03-2022: _Astronomía Estelar 1_
-* Estrellas 
-* Cúmulos Estelares y Nebulosas
+* Estrellas  ([pdf](2022-03-10_Estrellas_v0.pdf))
 
 ### 17-03-2022: _Astronomía Estelar 2_
 * El Sol, nuestra Estrella
@@ -71,4 +70,4 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 
 ## [Bibliografía del curso](https://e-nicola.github.io/Astro-Curso-2022a/bibliografía.html)
 
-[^1]: página actualizada por última vez el: 2022-02-24
+[^1]: página actualizada por última vez el: 2022-03-13
