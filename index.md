@@ -60,7 +60,6 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 
 ### 10-03-2022: _Astronomía Estelar 1_
 * Estrellas 
-* Cúmulos Estelares y Nebulosas
 
 ### 17-03-2022: _Astronomía Estelar 2_
 * El Sol, nuestra Estrella
@@ -73,5 +72,4 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 
 ## [Bibliografía del curso](https://e-nicola.github.io/Astro-Curso-2022a/bibliografía.html)
 
-[^1]: página actualizada por última vez el: 2022-02-16
-
+[^1]: página actualizada por última vez el: 2022-03-13
