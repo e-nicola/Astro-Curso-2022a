@@ -74,15 +74,3 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 
 [^1]: página actualizada por última vez el: 2022-03-13
 
-
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
-
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
-
-This math is inline $`a^2+b^2=c^2`$.
-
-```math
-a^2+b^2=c^2
-```
