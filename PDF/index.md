@@ -57,16 +57,16 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 * La Luna, nuestro Satélite ([pdf](2022-03-03_Luna_v0.pdf))
 
 ### 10-03-2022: _Astronomía Estelar 1_
-* Estrellas  ([pdf](2022-03-10_Estrellas_v0.pdf))
+* Estrellas ([pdf](2022-03-10_Estrellas_v0.pdf))
 
 ### 17-03-2022: _Astronomía Estelar 2_
-* El Sol, nuestra Estrella
+* El Sol, nuestra Estrella ([pdf](2022-03-17_Sol.pdf))
 
 ### 24-03-2022: _Astronomía Galáctica_
-* Vía Láctea y Galaxias
+* Vía Láctea y Galaxias ([pdf](2022-03-24_Galaxias_Via_Lactea_v0.pdf))
 
 ### 31-03-2022: _Cosmología 1_
-* La Evolución del Universo
+* La Evolución del Universo ([pdf](2022-03-31_Cosmologia_v0.pdf))
 
 ## [Bibliografía del curso](https://e-nicola.github.io/Astro-Curso-2022a/bibliografía.html)
 
