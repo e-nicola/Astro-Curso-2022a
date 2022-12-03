@@ -134,8 +134,31 @@
   * Estrellas Azules: 20 < M/M<sub>Sol</sub> < 100
   * Síntesis de la Evolución Estelar
 ## _Astronomía Estelar 2: El Sol, nuestra Estrella_
+* Características del Sol
+  * Tamaño, Distancia y Otras Características del Sol
+  * Energía del Sol
+* Evolución Solar
+  * Formación del Sol
+  * El Sol en la Secuencia Principal
+  * Evolución Tardía del Sol
+* Anatomía del Sol
+  * Interior Solar
+    * Núcleo Solar
+    * Zona Radiativa
+    * Zona Convectiva
+  * Atmósfera Solar
+    * Fotósfera Solar
+    * Cromósfera Solar
+    * Corona Solar
+* Manchas Solares
+  * Fenomenología de las Manchas Solares
+  * Variaciones de las Manchas Solares
+  * Mecanismo de las Manchas Solares
+* Observación Solar
+  * ¿Por qué observar el Sol?
+  * ¿Qué se puede observar en el Sol?
 
-## _Astronomía Estelar 2: Cúmulos Estelares y Nebulosas_
+## _Astronomía Estelar 3: Cúmulos Estelares y Nebulosas_
 * Clasificación de los Objetos del Cielo Profundo
 * Medio Interestelar
 * Nubes de Polvo
