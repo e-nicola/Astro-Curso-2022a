@@ -174,6 +174,23 @@
   * Cúmulos Globulares
 
 ## _Astronomía Galáctica: Vía Láctea y Galaxias_
+* ¿Que es la Vía Láctea?
+* Estructura de la Vía Láctea
+  * Composición
+  * Estructura General de la Galaxia
+  * Disco Galáctico
+  * Bulbo Galáctico
+  * Halo Galáctico
+* Geografía de la Vía Láctea
+  * Nombres de los Brazos de la Vía Láctea
+  * La Vía Láctea en Coordenadas Galácticas
+* Recorriendo la Vía Láctea desde Sol al Universo Observable
+  * La Vía Láctea; de Cerca a Lejos
+  * De la Vía Láctea al Universo Observable
+* Galaxias
+  * Clasificación de Galaxias
+  * Tamaños de Galaxias
+  * Agujeros Negros Supermasivos
 
 ## _Cosmología: La Evolución del Universo_
 
