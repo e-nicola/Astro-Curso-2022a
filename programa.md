@@ -135,28 +135,28 @@
   * Síntesis de la Evolución Estelar
 ## _Astronomía Estelar 2: El Sol, nuestra Estrella_
 * Características del Sol
-  * Tamaño, Distancia y Otras Características del Sol
-  * Energía del Sol
+  * Tamaño, Distancia y Otras Características del Sol
+  * Energía del Sol
 * Evolución Solar
-  * Formación del Sol
-  * El Sol en la Secuencia Principal
-  * Evolución Tardía del Sol
+  * Formación del Sol
+  * El Sol en la Secuencia Principal
+  * Evolución Tardía del Sol
 * Anatomía del Sol
-  * Interior Solar
-    * Núcleo Solar
-    * Zona Radiativa
-    * Zona Convectiva
-  * Atmósfera Solar
-    * Fotósfera Solar
-    * Cromósfera Solar
-    * Corona Solar
+  * Interior Solar
+    * Núcleo Solar
+    * Zona Radiativa
+    * Zona Convectiva
+  * Atmósfera Solar
+    * Fotósfera Solar
+    * Cromósfera Solar
+    * Corona Solar
 * Manchas Solares
   * Fenomenología de las Manchas Solares
   * Variaciones de las Manchas Solares
   * Mecanismo de las Manchas Solares
 * Observación Solar
-  * ¿Por qué observar el Sol?
-  * ¿Qué se puede observar en el Sol?
+  * ¿Por qué observar el Sol?
+  * ¿Qué se puede observar en el Sol?
 
 ## _Astronomía Estelar 3: Cúmulos Estelares y Nebulosas_
 * Clasificación de los Objetos del Cielo Profundo
@@ -193,5 +193,22 @@
   * Agujeros Negros Supermasivos
 
 ## _Cosmología: La Evolución del Universo_
+* Historia de la Cosmología
+  * Olbers y su Paradoja
+  * Einstein: Teoría General de la Relatividad
+  * Lemaître y Friedmann
+  * Hubble: El Universo se expande
+  * Materia Oscura
+  * Radiación de Fondo de Microondas
+  * Inflación Cósmica
+  * Energía Oscura
+* Evolución del Universo
+  * Big Bang y el Universo en Expansión
+  * Período Inflacionario
+  * Nucleosíntesis
+  * Radiación del Fondo Cósmico
+  * Era Oscura y Primeras Estrellas y Galaxias
+  * Expansión Acelerada del Universo
+  * Futuro del Universo
 
-[^1]: página actualizada por última vez el: 2022-03-13
+[^1]: página actualizada por última vez el: 2022-03-31
