@@ -133,6 +133,25 @@
   * Estrellas Blancas:  8 < M/M<sub>Sol</sub> < 20 
   * Estrellas Azules: 20 < M/M<sub>Sol</sub> < 100
   * Síntesis de la Evolución Estelar
+## _Astronomía Estelar 2: El Sol, nuestra Estrella_
 
+## _Astronomía Estelar 2: Cúmulos Estelares y Nebulosas_
+* Clasificación de los Objetos del Cielo Profundo
+* Medio Interestelar
+* Nubes de Polvo
+  * Nebulosas de Absorción
+  * Nebulosas de Reflexión
+* Nubes de Gas
+  * Nebulosas de Emisión
+  * Nebulosas de Eyección
+    * Nebulosas Planetarias y Remanentes de Supernova
+* Regiones de Formación Estelar
+  * Cúmulos Abiertos
+  * Asociaciones Estelares
+  * Cúmulos Globulares
+
+## _Astronomía Galáctica: Vía Láctea y Galaxias_
+
+## _Cosmología: La Evolución del Universo_
 
 [^1]: página actualizada por última vez el: 2022-03-13
