@@ -65,7 +65,7 @@ _A continuación encontrarás una versión resumida del programa del curso, en e
 ### 24-03-2022: _Astronomía Galáctica_
 * Vía Láctea y Galaxias ([pdf](2022-03-24_Galaxias_Via_Lactea_v0.pdf))
 
-### 31-03-2022: _Cosmología 1_
+### 31-03-2022: _Cosmología_
 * La Evolución del Universo ([pdf](2022-03-31_Cosmologia_v0.pdf))
 
 ## [Bibliografía del curso](https://e-nicola.github.io/Astro-Curso-2022a/bibliografía.html)
